@@ -1,0 +1,6 @@
+c:\users\mustafin\source\repos\Ex_Test2\Ex_Test2\bin\Debug\Ex_Test2.exe
+c:\users\mustafin\source\repos\Ex_Test2\Ex_Test2\bin\Debug\Ex_Test2.pdb
+c:\users\mustafin\source\repos\Ex_Test2\Ex_Test2\obj\Debug\Ex_Test2.csprojResolveAssemblyReference.cache
+c:\users\mustafin\source\repos\Ex_Test2\Ex_Test2\obj\Debug\Ex_Test2.csproj.CoreCompileInputs.cache
+c:\users\mustafin\source\repos\Ex_Test2\Ex_Test2\obj\Debug\Ex_Test2.exe
+c:\users\mustafin\source\repos\Ex_Test2\Ex_Test2\obj\Debug\Ex_Test2.pdb
